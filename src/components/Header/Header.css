@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+.link{
+   color: rgb(65, 64, 64);
+   font-weight: 600;
+   font-size: 20px;
+    text-decoration: none;
+}
+.logo{
+    height: 50px;
+}
+.brand-name{
+    font-size: 36px;
+    font-family: 'Yellowtail', cursive;
+    color: rgba(13, 134, 214, 0.692);
+}

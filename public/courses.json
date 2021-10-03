@@ -1,0 +1,92 @@
+[
+    {
+      "course": "Swim class for pre-school",
+      "instructor": " John",
+      "age": "4-35 Months",
+      "classLength": "30 min",
+      "day": "sat,mon,wed",
+      "courseFee": 75,
+      "courseLength": "30 day",
+      "img": "https://www.yourswimlog.com/wp-content/uploads/2020/11/7-Benefits-of-Baby-Swimming.jpg"
+    },
+    {
+      "course": "Swim class for Junior",
+      "instructor": " John",
+      "age": "3-4 years",
+      "classLength": "45 min",
+      "day": "sat,mon,wed",
+      "courseFee": 85,
+      "courseLength": "40 day",
+      "img": "https://active.leeds.gov.uk/classes-and-activities/PublishingImages/Junior-swimming-large.jpg"
+    },
+    {
+      "course": "Swim class for glider",
+      "instructor": " John",
+      "age": "4-12 years",
+      "classLength": "50 min",
+      "day": "sat,mon,wed",
+      "courseFee": 95,
+      "courseLength": "45 day",
+      "img": "https://d1s9j44aio5gjs.cloudfront.net/2018/05/children_playing_ball_in_water.jpg"
+    },
+    {
+      "course": "Swim class for glider-pro",
+      "instructor": " John",
+      "age": "4-12 years",
+      "classLength": "50 min",
+      "day": "sat,mon,wed",
+      "courseFee": 105,
+      "courseLength": "50 day",
+      "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/15/w900X450/nter-scho.jpg"
+    },
+    {
+      "course": "Swim class for intermediate",
+      "instructor": " John",
+      "age": "12-18 years",
+      "classLength": "60 min",
+      "day": "sat,mon,wed",
+      "courseFee": 115,
+      "courseLength": "55 day",
+      "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg"
+    },
+    {
+      "course": "Swim class for adult",
+      "instructor": " John",
+      "age": "18-35 years",
+      "classLength": "60 min",
+      "day": "sat,mon,wed",
+      "courseFee": 115,
+      "courseLength": "60 day",
+      "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg"
+    },
+    {
+      "course": "Swim class for pro",
+      "instructor": " John",
+      "age": "18-45 years",
+      "classLength": "60 min",
+      "day": "sat,mon,wed",
+      "courseFee": 120,
+      "courseLength": "70 day",
+      "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4AYSAISZHAI6XKCJN6KCHJ277U.jpg"
+    },
+    {
+      "course": "Swim class for professional",
+      "instructor": " John",
+      "age": "18-45 years",
+      "classLength": "90 min",
+      "day": "sat,mon,wed",
+      "courseFee": 150,
+      "courseLength": "60 day",
+      "img": "https://thebridge.in/h-upload/2021/04/03/1600x960_1726-swimming-pools-are-open-in-india-source-pixabay.jpg"
+    },
+    {
+      "course": "Swim class for adventure",
+      "instructor": " John",
+      "age": "18-45 years",
+      "classLength": "120 min",
+      "day": "sat,mon,wed",
+      "courseFee": 180,
+      "courseLength": "90 day",
+      "img": "https://d1s9j44aio5gjs.cloudfront.net/2019/06/Swim-safetly-in-the-sea-2.jpg"
+    }
+  ]

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+.banner h2{
+    font-family: 'Yellowtail', cursive;
+}
+.banner{
+    background-image: linear-gradient(to bottom, #25567263 0%,rgba(34, 84, 107, 0.514) 100%), url('../../images/banner3.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.banner p{
+    font-weight: 500;
+}

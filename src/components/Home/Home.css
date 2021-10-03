@@ -1,0 +1,9 @@
+hr{
+   
+    width: 30px;
+    margin: auto;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.918);
+}
+.color-header{
+    color: rgba(13, 134, 214, 0.8);
+}

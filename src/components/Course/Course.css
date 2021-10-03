@@ -1,0 +1,7 @@
+.course-container{
+    border: 5px solid aqua;
+    border-left: none;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
