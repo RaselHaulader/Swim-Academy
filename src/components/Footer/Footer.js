@@ -46,7 +46,7 @@ const Footer = () => {
 
             </div>
             <hr />
-            <p className="pt-5 text-center">© Copyright 2021 SwimAcademy Theme By QuanticaLabs</p>
+            <p className="pt-5 text-center">© Copyright 2021 SwimAcademy</p>
         </div>
     );
 };

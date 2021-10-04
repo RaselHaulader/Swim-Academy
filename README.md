@@ -1,12 +1,10 @@
-# Swim Academy
+# Swim Academy 
 
 Visit this site to know more about us [Swim Academy](https://explore-beautiful-bangladesh.netlify.app/)
 
-## Purpose of the site
+## Our Motto
+We are an open and friendly swimming school. Each of our little floats is special and unique to us. We know each of our students not only by name, but most of all we listen to them and try to get to know them well. We teach swimming, but also try to pass on moral principles and values.
 
-- Help to create a tour plan in Bangladesh
-- informed about amazing place of Bangladesh and cost to visit there
-- Presenting my loving country to the person who want to explore this
 
 ## The technology with which the site has been built
 - html
