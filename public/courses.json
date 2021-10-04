@@ -1,6 +1,7 @@
 [
     {
       "course": "little Frog",
+      "code": 1,
       "type": "Swimming course",
       "instructor": " John",
       "age": "4-35 Months",
@@ -13,6 +14,7 @@
     },
     {
       "course": "Sea Turtle",
+      "code": 2,
       "type": "Swimming course",
       "instructor": " Smith",
       "age": "3-4 years",
@@ -25,6 +27,7 @@
     },
     {
       "course": "Sharks",
+      "code": 3,
       "type": "Swimming course",
       "instructor": " Michel",
       "age": "4-12 years",
@@ -37,6 +40,7 @@
     },
     {
       "course": "pro Swimmer",
+      "code": 4,
       "type": "Swimming course",
       "instructor": " Richard",
       "age": "4-12 years",
@@ -49,6 +53,7 @@
     },
     {
       "course": "Aqua Aerobics",
+      "code": 5,
       "type": "Swimming course",
       "instructor": " Jonathon",
       "age": "12-18 years",
@@ -61,6 +66,7 @@
     },
     {
       "course": "Deep Aqua Aerobics",
+      "code": 6,
       "type": "Swimming course",
       "instructor": " Alex",
       "age": "18-35 years",
@@ -73,6 +79,7 @@
     },
     {
       "course": "Aqua Fitness",
+      "code": 7,
       "type": "Swimming course",
       "instructor": " Mike",
       "age": "18-45 years",
@@ -85,6 +92,7 @@
     },
     {
       "course": "Aqua Zumba",
+      "code": 8,
       "type": "Swimming course",
       "instructor": " Lara",
       "age": "18-45 years",
@@ -97,6 +105,7 @@
     },
     {
       "course": "First Aid for Children",
+      "code": 9,
       "type": "Swimming course",
       "instructor": " Brandon",
       "age": "7-12 years",

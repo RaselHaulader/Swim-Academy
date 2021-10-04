@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <div className="bg-dark footer w-100 row p-5">
             <div className="col-3">
-                <h3>Swim Academy</h3>
+                <h4>Swim Academy</h4>
                 <p>Swim Academy are passionate about sports and physical activity. Our school was created out of passion for water sports and personal development.</p>
 
             </div>

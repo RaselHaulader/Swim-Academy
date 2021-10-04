@@ -23,7 +23,7 @@ const Home = () => {
                 <hr />
                 <div className="container px-4">
                     <Row xs={1} md={2} className="g-4 p-4">
-                        {courses.map((course) => <Course course={course}></Course>)}
+                        {courses.map((course) => <Course key={course.key} course={course}></Course>)}
                     </Row>
                 </div>
             </div>

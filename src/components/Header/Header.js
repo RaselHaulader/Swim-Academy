@@ -27,11 +27,11 @@ const Header = () => {
                         <NavLink to="/home" className="link mx-4" activeStyle={linkStyle} activeClassName="selected">
                             Home
                         </NavLink>
-                        <NavLink to="/about" className="link mx-4" activeStyle={linkStyle} activeClassName="selected">
-                            About
-                        </NavLink>
                         <NavLink to="/courses" className="link mx-4" activeStyle={linkStyle} activeClassName="selected">
                             Courses
+                        </NavLink>
+                        <NavLink to="/about" className="link mx-4" activeStyle={linkStyle} activeClassName="selected">
+                            About
                         </NavLink>
                         <NavLink to="/instructor" className="link mx-4" activeStyle={linkStyle} activeClassName="selected">
                             Instructor

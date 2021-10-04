@@ -4,3 +4,13 @@ color: rgba(13, 134, 214, 0.8);
 .heading{
     color: rgb(97, 97, 97);
 }
+.course-banner{
+    background-image: linear-gradient(to bottom, #5c5c5c50 0%,rgba(27, 27, 27, 0.541) 100%), url('../../images/banner5.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
