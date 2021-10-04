@@ -2,6 +2,15 @@
     border: 5px solid aqua;
     border-left: none;
     width: 300px;
-    height: 300px;
     margin: 30px;
+}
+.course-img{
+    height:200px;
+}
+.course{
+    color: rgb(97, 97, 97);
+}
+.price{
+    display: flex;
+    justify-content: space-between;
 }

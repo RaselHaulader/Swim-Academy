@@ -1,0 +1,20 @@
+.about-banner{
+   
+        background-image: linear-gradient(to bottom, #96969650 0%,rgba(109, 109, 109, 0.466) 100%), url('../../images/banner2.jpg');
+        background-position: center;
+        background-size: cover;
+        color: white;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+}
+h3{
+    font-weight: 600;
+    font-size: 32px;
+}
+.article{
+    color: gray;
+    font-weight: 500;
+}

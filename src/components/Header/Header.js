@@ -13,9 +13,10 @@ const Header = () => {
         color: 'rgba(13, 134, 214, 0.8)'
     }
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg" className="p-0 m-0">
+            
             <Container fluid>
-                <Navbar.Brand ><img className="logo" src={logo} alt="" /><span className="brand-name">Swimmer</span></Navbar.Brand>
+                <Navbar.Brand className="d-flex align-items-center p-0 m-0"><img className="logo" src={logo} alt="" /><span className="brand-name">Swimmer</span></Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                     <Nav

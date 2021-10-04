@@ -1,8 +1,10 @@
 [
     {
-      "course": "Swim class for pre-school",
+      "course": "little Frog",
+      "type": "Swimming course",
       "instructor": " John",
       "age": "4-35 Months",
+      "details": "Classes conducted with adults in the water. The little ones start their adventure in the water with the use of games and activities.",
       "classLength": "30 min",
       "day": "sat,mon,wed",
       "courseFee": 75,
@@ -10,9 +12,11 @@
       "img": "https://www.yourswimlog.com/wp-content/uploads/2020/11/7-Benefits-of-Baby-Swimming.jpg"
     },
     {
-      "course": "Swim class for Junior",
-      "instructor": " John",
+      "course": "Sea Turtle",
+      "type": "Swimming course",
+      "instructor": " Smith",
       "age": "3-4 years",
+      "details": "Classes developing awareness of the aquatic environment. Without the parent's presence in the water.",
       "classLength": "45 min",
       "day": "sat,mon,wed",
       "courseFee": 85,
@@ -20,9 +24,11 @@
       "img": "https://active.leeds.gov.uk/classes-and-activities/PublishingImages/Junior-swimming-large.jpg"
     },
     {
-      "course": "Swim class for glider",
-      "instructor": " John",
+      "course": "Sharks",
+      "type": "Swimming course",
+      "instructor": " Michel",
       "age": "4-12 years",
+      "details": "Learning beginner strokes on their backs and fronts. Classes without the participation of adults in the water.",
       "classLength": "50 min",
       "day": "sat,mon,wed",
       "courseFee": 95,
@@ -30,9 +36,11 @@
       "img": "https://d1s9j44aio5gjs.cloudfront.net/2018/05/children_playing_ball_in_water.jpg"
     },
     {
-      "course": "Swim class for glider-pro",
-      "instructor": " John",
+      "course": "pro Swimmer",
+      "type": "Swimming course",
+      "instructor": " Richard",
       "age": "4-12 years",
+      "details": "Mastering the technique in four swimming styles: freestyle, backstroke, breaststroke and butterfly. Constantly on the move.",
       "classLength": "50 min",
       "day": "sat,mon,wed",
       "courseFee": 105,
@@ -40,19 +48,23 @@
       "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/15/w900X450/nter-scho.jpg"
     },
     {
-      "course": "Swim class for intermediate",
-      "instructor": " John",
+      "course": "Aqua Aerobics",
+      "type": "Swimming course",
+      "instructor": " Jonathon",
       "age": "12-18 years",
+      "details": "Refreshing and invigorating. Get a low impact all-round workout in the shallow water of the swimming pool.",
       "classLength": "60 min",
       "day": "sat,mon,wed",
       "courseFee": 115,
       "courseLength": "55 day",
-      "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg"
+      "img": "https://gwrymca.org/sites/default/files/2019-10/fitness_myth_image_1.png"
     },
     {
-      "course": "Swim class for adult",
-      "instructor": " John",
+      "course": "Deep Aqua Aerobics",
+      "type": "Swimming course",
+      "instructor": " Alex",
       "age": "18-35 years",
+      "details": "High intensity full body workout to build your core strength in the shallow water of the swimming pool. ",
       "classLength": "60 min",
       "day": "sat,mon,wed",
       "courseFee": 115,
@@ -60,9 +72,11 @@
       "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg"
     },
     {
-      "course": "Swim class for pro",
-      "instructor": " John",
+      "course": "Aqua Fitness",
+      "type": "Swimming course",
+      "instructor": " Mike",
       "age": "18-45 years",
+      "details": " Sports activities in the water combined with energetic music are the perfect solution for everyone, even for non-swimmers.",
       "classLength": "60 min",
       "day": "sat,mon,wed",
       "courseFee": 120,
@@ -70,9 +84,11 @@
       "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4AYSAISZHAI6XKCJN6KCHJ277U.jpg"
     },
     {
-      "course": "Swim class for professional",
-      "instructor": " John",
+      "course": "Aqua Zumba",
+      "type": "Swimming course",
+      "instructor": " Lara",
       "age": "18-45 years",
+      "details": " Zumba classes in the water. The water reaches the waist so you don't need to know how to swim.",
       "classLength": "90 min",
       "day": "sat,mon,wed",
       "courseFee": 150,
@@ -80,13 +96,15 @@
       "img": "https://thebridge.in/h-upload/2021/04/03/1600x960_1726-swimming-pools-are-open-in-india-source-pixabay.jpg"
     },
     {
-      "course": "Swim class for adventure",
-      "instructor": " John",
-      "age": "18-45 years",
-      "classLength": "120 min",
+      "course": "First Aid for Children",
+      "type": "Swimming course",
+      "instructor": " Brandon",
+      "age": "7-12 years",
+      "details": "Designed for children aged 7-12. Children begin to become more independent and understand basic first aid.",
+      "classLength": "40 min",
       "day": "sat,mon,wed",
-      "courseFee": 180,
-      "courseLength": "90 day",
-      "img": "https://d1s9j44aio5gjs.cloudfront.net/2019/06/Swim-safetly-in-the-sea-2.jpg"
+      "courseFee": 50,
+      "courseLength": "30 day",
+      "img": "https://bandcaquatics.com/wp-content/uploads/2020/03/cpr-swimming-pool.jpg"
     }
   ]

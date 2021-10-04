@@ -4,7 +4,7 @@
     font-family: 'Yellowtail', cursive;
 }
 .banner{
-    background-image: linear-gradient(to bottom, #25567263 0%,rgba(34, 84, 107, 0.514) 100%), url('../../images/banner3.jpg');
+    background-image: linear-gradient(to bottom, #25567263 0%,rgba(0, 0, 0, 0.63) 100%), url('../../images/banner3.jpg');
     background-position: center;
     background-size: cover;
     color: white;
