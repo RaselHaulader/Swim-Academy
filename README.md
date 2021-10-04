@@ -15,6 +15,7 @@ We are an open and friendly swimming school. Each of our little floats is specia
 - HTML
 - CSS3
 - bootstrap
+- mobile responsive
 - React
 - React Router
 - fontawsome icon
