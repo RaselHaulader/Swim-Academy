@@ -7,12 +7,12 @@ import FormControl from 'react-bootstrap/FormControl';
 const Footer = () => {
     return (
         <div className="bg-dark footer w-100 row p-5">
-            <div className="col-3">
+            <div className="col-md-3 col-12">
                 <h4>Swim Academy</h4>
                 <p>Swim Academy are passionate about sports and physical activity. Our school was created out of passion for water sports and personal development.</p>
 
             </div>
-            <div className="col-2">
+            <div className="col-md-2 col-12">
                 <h4>Location</h4>
                 <p>Zero point <br /> Jashore 7400</p>
 
@@ -21,7 +21,7 @@ const Footer = () => {
                     Sat: 8:00 - 21:00 <br />
                     Sun: 8:00 - 20:00</p>
             </div>
-            <div className="col-3">
+            <div className="col-md-3 col-12">
                 <h4>Explore</h4>
                 <p className="text-truncate">Discover Benefits of Swimming Lessons for Kid</p>
                 <p>Home</p>
@@ -29,7 +29,7 @@ const Footer = () => {
                 <p>Courses</p>
                 <p>Instructor</p>
             </div>
-            <div className="col-4">
+            <div className="col-md-4 col-12">
                 <h4>Contact us</h4>
                 <p>Contact with us to know more details</p>
                 <p>Contact@gmail.com</p>

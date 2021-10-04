@@ -12,6 +12,7 @@ const Details = () => {
     const [display, setDisplay] = useState([])
     // fetch course data from server
     useEffect(() => {
+        window.scrollTo(0, 0);
         fetch('https://raw.githubusercontent.com/RaselHaulader/json/main/courses.JSON')
             .then(res => res.json())
             .then(data => setCourse(data))
@@ -27,11 +28,11 @@ const Details = () => {
     return (
         <div>
             <h3 className="text-center py-5 text-uppercase">Learn More about  <span className="color-text">Your Course</span></h3>
-            <div className="pb-5 mb-5 d-flex details-container ">
-                <div className="w-50">
-                    <img className="w-100 pe-3 details-img rounded" src={img} alt="" />
+            <div className="pb-5 mb-5 d-flex row w-100 details-container ">
+                <div className="col-md-6 col-12 justify-content-center d-flex">
+                    <img className="w-100 details-img rounded" src={img} alt="" />
                 </div>
-                <div className="w-50">
+                <div className="col-md-6 col-12">
                     <h5 className="text-secondary"> Course Name: {course}</h5>
                     <div className="w-100 article">
                         <p>{details}</p>

@@ -19,6 +19,8 @@
 .instructor-item{
     position: relative;
     overflow: hidden;
+    margin-bottom: 10px;
+
     
 }
 .instructor-details{

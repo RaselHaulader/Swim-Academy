@@ -4,6 +4,7 @@ import Course from '../Course/Course';
 import Row from 'react-bootstrap/Row';
 
 import './Home.css'
+import { NavLink } from 'react-router-dom';
 
 const Home = () => {
     const [courses, setCourses] = useState([]);
@@ -24,8 +25,11 @@ const Home = () => {
                 <hr />
                 <div className="container px-4">
                     <Row xs={1} md={2} className="g-4 p-4">
-                        {courses.map((course) => <Course key={course.key} course={course}></Course>)}
+                        {courses.map((course) => <Course key={course.code} course={course}></Course>)}
                     </Row>
+                    <p className="text-center pt-5"><NavLink to="/courses" className="link mx-4"  activeClassName="selected">
+                           <button className="btn border-primary text-primary border px-5">See more</button>
+                        </NavLink></p>
                 </div>
             </div>
 

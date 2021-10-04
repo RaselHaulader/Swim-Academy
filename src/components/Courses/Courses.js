@@ -37,7 +37,7 @@ const Courses = () => {
                         our instructors approach everyone with patience and understanding.</p>
                 </div>
                 <Row xs={1} md={3} className="g-4 p-4">
-                    {courses.map((course) => <Course course={course}></Course>)}
+                    {courses.map((course) => <Course key={course.code} course={course}></Course>)}
                 </Row>
             </div>
         </div>

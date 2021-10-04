@@ -10,23 +10,23 @@ const Instructor = () => {
         <div className="instructor p-5">
             <div className="instructor-banner text-white">
                 <div>
-                <p className="fs-2 fw-lighter">Instructor</p>
+                    <p className="fs-2 fw-lighter">Instructor</p>
                     <NavLink to="/home" className="text-white fw-lighter fs-5 text-decoration-none me-2" activeClassName="selected">
                         Home &gt;
                     </NavLink>
                     <NavLink to="/courses" className="text-white fw-lighter fs-5 text-decoration-none me-2" activeClassName="selected">
-                    Courses  &gt;
-                        </NavLink>
+                        Courses  &gt;
+                    </NavLink>
                     <NavLink to="/about" className="text-white fw-lighter fs-5 text-decoration-none me-2" activeClassName="selected">
                         About
                     </NavLink>
-                   
+
                 </div>
             </div>
             <h1 className="text-center py-4 text-secondary">OUR <span className="heading-color">BEST INSTRUCTOR</span></h1>
             <div className="container">
                 <div className="row">
-                    <div className="col-4 ">
+                    <div className="col-md-4 col-12 ">
                         <div className="instructor-item">
                             <img className="instructor-img" src={Instructor1} alt="" />
                             <div className="instructor-details">
@@ -35,7 +35,7 @@ const Instructor = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-4 ">
+                    <div className="col-md-4 col-12 ">
                         <div className="instructor-item">
                             <img className="instructor-img" src={Instructor2} alt="" />
                             <div className="instructor-details">
@@ -44,7 +44,7 @@ const Instructor = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-4 ">
+                    <div className="col-md-4 col-12 ">
                         <div className="instructor-item">
                             <img className="instructor-img" src={Instructor3} alt="" />
                             <div className="instructor-details">
