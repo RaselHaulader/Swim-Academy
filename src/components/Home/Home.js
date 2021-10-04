@@ -7,6 +7,7 @@ import './Home.css'
 
 const Home = () => {
     const [courses, setCourses] = useState([]);
+    // fetch and slice data for viewing home page
     useEffect(()=>{
         fetch('./courses.JSON')
         .then(res=> res.json())

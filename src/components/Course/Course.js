@@ -6,6 +6,7 @@ import Col from 'react-bootstrap/Col';
 import { NavLink } from 'react-router-dom';
 
 const Course = (props) => {
+    //destructuring
     const { course, details, img, age, type, courseFee, courseLength, code } = props.course
     return (
         <Col className="course rounded">

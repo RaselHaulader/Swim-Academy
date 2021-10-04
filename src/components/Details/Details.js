@@ -4,16 +4,21 @@ import { NavLink } from 'react-router-dom';
 import './Details.css'
 
 const Details = () => {
+    // get from dynamic routing
     const { code } = useParams()
+    // this reserve all courses from server
     const [courses, setCourse] = useState([]);
+    // store filtered data
     const [display, setDisplay] = useState([])
+    // fetch course data from server
     useEffect(() => {
         fetch('https://raw.githubusercontent.com/RaselHaulader/json/main/courses.JSON')
             .then(res => res.json())
             .then(data => setCourse(data))
     }, [])
+
+    // filter clicked course
     useEffect(() => {
-      
         const check = courses.filter((item) => item.code === parseInt(code))
         setDisplay(check)
     }, [code, courses])

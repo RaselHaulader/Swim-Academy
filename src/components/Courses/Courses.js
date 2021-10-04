@@ -6,6 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Courses = () => {
     const [courses, setCourses] = useState([]);
+    // fetch data from json
     useEffect(() => {
         fetch('./courses.JSON')
             .then(res => res.json())
