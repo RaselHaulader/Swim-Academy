@@ -7,7 +7,7 @@ We are an open and friendly swimming school. Each of our little floats is specia
 
 
 ## The technology with which the site has been built
-- html
+- HTML
 - CSS3
 - bootstrap
 - React
