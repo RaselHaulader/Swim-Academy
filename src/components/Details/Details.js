@@ -12,6 +12,7 @@ const Details = () => {
     const [display, setDisplay] = useState([])
     // fetch course data from server
     useEffect(() => {
+        //scroll to top
         window.scrollTo(0, 0);
         fetch('https://raw.githubusercontent.com/RaselHaulader/json/main/courses.JSON')
             .then(res => res.json())

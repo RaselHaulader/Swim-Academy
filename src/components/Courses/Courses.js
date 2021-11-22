@@ -7,7 +7,10 @@ import { NavLink } from 'react-router-dom';
 const Courses = () => {
     const [courses, setCourses] = useState([]);
     // fetch data from json
+   
     useEffect(() => {
+        // scroll to top
+        window.scrollTo(0, 0);
         fetch('./courses.JSON')
             .then(res => res.json())
             .then(data => setCourses(data))
